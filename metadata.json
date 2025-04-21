@@ -4,6 +4,12 @@
   "decimals": 9,
   "description": "ChessChain is the world's first play-to-earn chess token that rewards strategy, community, and passion.",
   "image": "https://raw.githubusercontent.com/ChessChain/chesschain-assets/refs/heads/main/logo.png",
+  "creators": [
+    {
+      "address": "CCHNo3ic2wZo6n8akBpjsFhiG6kiUeEYhJskArUKu2u4",
+      "share": 100
+    }
+  ],
   "properties": {
     "files": [
       {
@@ -12,12 +18,6 @@
       }
     ],
     "category": "image",
-    "creators": [
-      {
-        "address": "CCHNo3ic2wZo6n8akBpjsFhiG6kiUeEYhJskArUKu2u4",
-        "share": 100
-      }
-    ],
     "socials": {
       "website": "https://chesschain.club",
       "twitter": "https://twitter.com/chess_chain",
