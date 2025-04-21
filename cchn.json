@@ -1,0 +1,17 @@
+{
+  "name": "ChessChain",
+  "symbol": "CCHN",
+  "decimals": 9,
+  "description": "ChessChain is the world's first play-to-earn chess token that rewards strategy, community, and passion.",
+  "image": "https://yourdomain.com/logo.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://yourdomain.com/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": []
+  }
+}
