@@ -3,15 +3,23 @@
   "symbol": "CCHN",
   "decimals": 9,
   "description": "ChessChain is the world's first play-to-earn chess token that rewards strategy, community, and passion.",
-  "image": "https://yourdomain.com/logo.png",
+  "image": "https://raw.githubusercontent.com/ChessChain/chesschain-assets/refs/heads/main/logo.png",
   "properties": {
     "files": [
       {
-        "uri": "https://yourdomain.com/logo.png",
+        "uri": "https://raw.githubusercontent.com/ChessChain/chesschain-assets/refs/heads/main/logo.png",
         "type": "image/png"
       }
     ],
     "category": "image",
     "creators": []
+    "socials": {
+      "website": "https://chesschain.club",
+      "twitter": "https://twitter.com/chess_chain",
+      "telegram": "https://t.me/chess_chain",
+      "github": "https://github.com/ChessChain",
+      "tiktok": "https://www.tiktok.com/@chesschain",
+      "whitepaper": "https://chesschain.gitbook.io/whitepaper/"
+    }
   }
 }
