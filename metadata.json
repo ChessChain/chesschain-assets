@@ -12,7 +12,12 @@
       }
     ],
     "category": "image",
-    "creators": [],
+    "creators": [
+      {
+        "address": "CCHNo3ic2wZo6n8akBpjsFhiG6kiUeEYhJskArUKu2u4",
+        "share": 100
+      }
+    ],
     "socials": {
       "website": "https://chesschain.club",
       "twitter": "https://twitter.com/chess_chain",
